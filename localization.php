@@ -10,7 +10,7 @@ define("APO_TITLE", "Select your Panel");
 define("APO_HEADER", "Please make a selection.");
 define("APO_STATUS_ONLINE", "Online");
 define("APO_STATUS_OFFLINE", "Offline");
-define("APO_ABOUT", "This site is a proxy website designed to allow administrators to access other parts of the services. This branch specifically relates to the DC datacenters. It is not to be used by the general public.");
+define("APO_ABOUT", "You are accessing AProxy successfuly, here are your available websites above. To change text, try Localization.php, to change your links, try config.php. To configure authentication, try auth.php. Thank you!");
 define("APO_POWEREDBY", "Powered by");
 define("APO_LOGIN_PG", "Please login.");
 define("APO_LOGIN_ENTRYBOX", "Password");
